@@ -155,3 +155,10 @@ body {
 }
 
 /* End Our Work */
+
+/* Start Stuff */
+.stuff .description {
+    max-width: 500px;
+}
+
+/* Start Stuff */
